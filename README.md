@@ -13,3 +13,5 @@
 [Flask Web](http://www.pythondoc.com/flask-mega-tutorial/)
 
 [友好的后端UI框架H-ui](http://www.h-ui.net/H-ui.admin.shtml)
+
+[给力EasyUI：开发必备](https://gitee.com/lovetime/WeAdmin)
